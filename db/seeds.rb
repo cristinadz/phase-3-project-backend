@@ -71,7 +71,6 @@ puts "Creating some 📚"
 Book.create(
     title: "The Art of Leaving",
     image: "https://i.postimg.cc/pXzk82CW/artofleaving.jpg",
-    author: "Ayelet Tsabari",
     description: "In The Art of Leaving, Tsabari tells her story, from her early love of writing and words, to her rebellion during her mandatory service in the Israeli army. She travels from Israel to New York, Canada, Thailand, and India, falling in and out of love with countries, men and women, drugs and alcohol, running away from responsibilities and refusing to settle in one place. She recounts her first marriage, her struggle to define herself as a writer in a new language, her decision to become a mother, and finally her rediscovery and embrace of her family history—a history marked by generations of headstrong women who struggled to choose between their hearts and their homes. Eventually, she realizes that she must reconcile the memories of her father and the sadness of her past if she is ever going to come to terms with herself.",
     favorite: false,
     author_id: 1,
@@ -81,7 +80,6 @@ Book.create(
 Book.create(
     title: "In the Dream House",
     image: "https://i.postimg.cc/d0gzRGD7/dreamhouse.jpg",
-    author: "Carmen Maria Machado",
     description: "In the Dream House is Carmen Maria Machado’s engrossing and wildly innovative account of a relationship gone bad, and a bold dissection of the mechanisms and cultural representations of psychological abuse. Tracing the full arc of a harrowing relationship with a charismatic but volatile woman, Machado struggles to make sense of how what happened to her shaped the person she was becoming.
     And it’s that struggle that gives the book its original structure: each chapter is driven by its own narrative trope―the haunted house, erotica, the bildungsroman―through which Machado holds the events up to the light and examines them from different angles. She looks back at her religious adolescence, unpacks the stereotype of lesbian relationships as safe and utopian, and widens the view with essayistic explorations of the history and reality of abuse in queer relationships.",
     favorite: false,
@@ -92,7 +90,6 @@ Book.create(
 Book.create(
     title: "Her Body and Other Parties",
     image: "https://i.postimg.cc/8PD9p1q6/herbody.jpg",
-    author: "Carmen Maria Machado",
     description: "In Her Body and Other Parties, Carmen Maria Machado blithely demolishes the arbitrary borders between psychological realism and science fiction, comedy and horror, fantasy and fabulism. While her work has earned her comparisons to Karen Russell and Kelly Link, she has a voice that is all her own. In this electric and provocative debut, Machado bends genre to shape startling narratives that map the realities of women's lives and the violence visited upon their bodies.",
     favorite: false,
     author_id: 2,
@@ -102,7 +99,6 @@ Book.create(
 Book.create(
     title: "Borderlands/La Frontera",
     image: "https://i.postimg.cc/jjpwNkbG/borderlands.jpg",
-    author: "Gloria Anzaldua",
     description: "Anzaldua, a Chicana native of Texas, explores in prose and poetry the murky, precarious existence of those living on the frontier between cultures and languages. Writing in a lyrical mixture of Spanish and English that is her unique heritage, she meditates on the condition of Chicanos in Anglo culture, women in Hispanic culture, and lesbians in the straight world. Her essays and poems range over broad territory, moving from the plight of undocumented migrant workers to memories of her grandmother, from Aztec religion to the agony of writing.",
     favorite: false,
     author_id: 3,
@@ -111,7 +107,6 @@ Book.create(
 Book.create(
     title: "If They Come for Us: Poems",
     image: "https://i.postimg.cc/8c6jCR9T/comeforus.jpg",
-    author: "Fatimah Asghar",
     description: "In this powerful and imaginative debut poetry collection, Fatimah Asghar nakedly captures the experiences of being a young Pakistani Muslim woman in America by braiding together personal and marginalized people's histories. After being orphaned as a young girl, Asghar grapples with coming-of-age as a woman without the guidance of a mother, questions of sexuality and race, and navigating a world that put a target on her back. Asghar's poems at once bear anguish, joy, vulnerability, and compassion, while exploring the many facets of violence: how it persists within us, how it is inherited across generations, and how it manifests in our relationships with friends and family, and in our own understanding of identity. Using experimental forms and a mix of lyrical and brash language, Asghar confronts her own understanding of identity and place and belonging.",
     favorite: false,
     author_id: 4,
@@ -120,7 +115,6 @@ Book.create(
 Book.create(
     title: "Corazon",
     image: "https://i.postimg.cc/02pyHdSq/corazon.jpg",
-    author: "Yesika Salgado",
     description: "Corazón is a love story. It is about the constant hunger for love. It is about feeding that hunger with another person and finding that sometimes it isn’t enough. Salgado creates a world in which the heart can live anywhere; her fat brown body, her parents home country, a lover, a toothbrush, a mango, or a song. It is a celebration of heartache, of how it can ruin us, but most importantly how we always survive it and return to ourselves whole.",
     favorite: false,
     author_id: 5,
@@ -130,7 +124,6 @@ Book.create(
 Book.create(
     title: "All About Love",
     image: "https://i.postimg.cc/fLSQ6DJr/allaboutlove.jpg",
-    author: "bell hooks",
     description: "All About Love offers radical new ways to think about love by showing its interconnectedness in our private and public lives. In eleven concise chapters, hooks explains how our everyday notions of what it means to give and receive love often fail us, and how these ideals are established in early childhood. She offers a rethinking of self-love (without narcissism) that will bring peace and compassion to our personal and professional lives, and asserts the place of love to end struggles between individuals, in communities, and among societies. Moving from the cultural to the intimate, hooks notes the ties between love and loss and challenges the prevailing notion that romantic love is the most important love of all.",
     favorite: false,
     author_id: 7,
@@ -139,7 +132,6 @@ Book.create(
 Book.create(
     title: "A Girl Is a Body of Water",
     image: "https://i.postimg.cc/J03cnHsH/bodyofwater.jpg",
-    author: "Jennifer Nansubuga Makumbi",
     description: "In her twelfth year, Kirabo, a young Ugandan girl, confronts a piercing question that has haunted her childhood: who is my mother? Kirabo has been raised by women in the small village of Nattetta—her grandmother, her best friend, and her many aunts, but the absence of her mother follows her like a shadow. Complicating these feelings of abandonment, as Kirabo comes of age she feels the emergence of a mysterious second self, a headstrong and confusing force inside her at odds with her sweet and obedient nature.",
     favorite: false,
     author_id: 6,
@@ -148,7 +140,6 @@ Book.create(
 Book.create(
     title: "Feminism Is for Everybody",
     image: "https://i.postimg.cc/ZRjZ8VvT/feminismforeveryone.jpg",
-    author: "bell hooks",
     description: "Acclaimed cultural critic bell hooks offers an open-hearted and welcoming vision of gender, sexuality, and society in this inspiring and accessible volume. In engaging and provocative style, bell hooks introduces a popular theory of feminism rooted in common sense and the wisdom of experience. Hers is a vision of a beloved community that appeals to all those committed to equality, mutual respect, and justice. hooks applies her critical analysis to the most contentious and challenging issues facing feminists today, including reproductive rights, violence, race, class, and work. With her customary insight and unsparing honesty, hooks calls for a feminism free from barriers but rich with rigorous debate. In language both eye-opening and optimistic, hooks encourages us to demand alternatives to patriarchal, racist, and homophobic culture, and to imagine a different future.",
     favorite: false,
     author_id: 7,
@@ -157,7 +148,6 @@ Book.create(
 Book.create(
     title: "Behold the Dreamers",
     image: "https://i.postimg.cc/WzTzjXxr/dreamers.jpg",
-    author: "Imbolo Mbue",
     description: "Jende Jonga, a Cameroonian immigrant living in Harlem, has come to the United States to provide a better life for himself, his wife, Neni, and their six-year-old son. In the fall of 2007, Jende can hardly believe his luck when he lands a job as a chauffeur for Clark Edwards, a senior executive at Lehman Brothers. Clark demands punctuality, discretion, and loyalty—and Jende is eager to please. Clark’s wife, Cindy, even offers Neni temporary work at the Edwardses’ summer home in the Hamptons. With these opportunities, Jende and Neni can at last gain a foothold in America and imagine a brighter future.",
     favorite: false,
     author_id: 8,
@@ -166,7 +156,6 @@ Book.create(
 Book.create( 
     title: "What We Carry: A Memoir",
     image: "https://i.postimg.cc/0NpR0xHG/whatwecarry.jpg",
-    author: "Maya Shanbhag Lang",
     description: "In caring for her aging mother and her own young daughter, writer Maya Shanbhag Lang--'a new voice of the highest caliber' (Rebecca Makkai)--confronts the legacy of family myths and how the stories shared between parents and children reverberate through generations: a deeply moving memoir about immigrants and their native-born children, the complicated love between mothers and daughters, and the discovery of strength.",
     favorite: false,
     author_id: 9,
